@@ -10,5 +10,10 @@ public class myclass {
         System.out.println(name);System.out.println(name);System.out.println(name);System.out.println(name);System.out.println(name);System.out.println(name);
     }
 
+    public void test(){
+
+
+        
+    }
 
 }
